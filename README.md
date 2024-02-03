@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ChandraShekharRajput
 - 👀 I’m interested in Flutter Development
-- 🌱 I’m currently learning Flutter and Dart
+- 🌱 I’m currently working as a Flutter Developer
 - 💞️ I’m looking to collaborate on Flutter Projects
 - 📫 How to reach me Mail: chandrashekhar.msr@gmail.com
 
